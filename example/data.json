@@ -1,0 +1,14 @@
+[
+  {
+    "input": "Name your country",
+    "output": "India"
+  },
+  {
+    "input": "Name your favorite state",
+    "output": "Maharashtra"
+  },
+  {
+    "input": "Name you city",
+    "output": "Pune"
+  }
+]
