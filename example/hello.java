@@ -2,12 +2,12 @@
 class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello, World!");       
-        add(2,4);  
+        add(2,5);  
 		
         
     }
     public void add(int a, int b){       
-        System.out.println("Sum:"+(2+3));
+        System.out.println("Sum:"+(2+5));
     } 
 
 	 
